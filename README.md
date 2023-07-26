@@ -4,7 +4,7 @@ This is a web based application developed for health related telugu based websit
 
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
-** Project Link**-https://lemon-forest-0292c7e10.3.azurestaticapps.net
+** Project Link**"https://black-mushroom-0abc9c310.3.azurestaticapps.net"
 
 ** Project demo video link**-
 
