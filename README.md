@@ -6,6 +6,8 @@ This is a web based application developed for health related telugu based websit
 
 ** Project Link**"https://black-mushroom-0abc9c310.3.azurestaticapps.net"
 
+** Project demo video link**"https://youtu.be/nXe9Uac4hFE"
+
 
 ## Azure technologies used for Project 
 - Static web apps
